@@ -125,7 +125,6 @@ header {
 .cards {
     display: grid;
     grid-template-rows: auto auto auto;
-    grid-gap: 165px;
 }
 .card {
     display: flex;
