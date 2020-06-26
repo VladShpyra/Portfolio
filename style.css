@@ -189,8 +189,9 @@ footer {
     height: 40px;
     background-repeat: no-repeat;
 }
-.social-icons li:hover {
+.social-icons a:hover {
     cursor: pointer;
+    transform: scale(1.2);
 } 
 .in {
     background-image: url(img/in.png);
